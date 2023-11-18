@@ -61,14 +61,14 @@ function Projects () {
         <div className="project-3 project">
 
         <div className="project-description">
-                <div className="project-name">Alexandria</div>
-                <p>A Web-based Application for Smart Book Classification based on Book Summaries
+                <div className="project-name">Aquaflow</div>
+                <p>Water Refilling Station App
                 <br/>
                 <ul>Roles:
 
-                <li>UI/UX Design of the website using Figma</li>
-                <li>Implemented the UI Design in the frontend using HTML, CSS, and Bootstrap.</li>
-                <li>Collaborated with a backend developer to implement the use of Flask.</li></ul></p>
+                <li>Conduct Research to deliver Quality User Experience</li>
+                <li>Create Mockup Design for the User Interface using Figma</li>
+                <li>Involved in Designing, Prototyping, User Testing, and Communication with the Development Team </li></ul></p>
                 <div className="button button-fill fill-left" onClick={() => redirectToExternalLink(project3)}>View on GitHub</div>
             </div>
 
