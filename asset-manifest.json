@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a26a8618.css",
+    "main.js": "/static/js/main.d36f80d8.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/art-photo.JPG": "/static/media/art-photo.34c1024d8fd8a30a6740.JPG",
+    "static/media/profile-photo.jpg": "/static/media/profile-photo.ed6df9e7b19207f6c910.jpg",
+    "static/media/sample-1-1.png": "/static/media/sample-1-1.4e4eb54751d992ba43c8.png",
+    "static/media/sample-1-2.png": "/static/media/sample-1-2.de5abf252889a511cd73.png",
+    "static/media/alexandria-0.png": "/static/media/alexandria-0.fb0954cf59bf66ed448d.png",
+    "static/media/sample-0-0.png": "/static/media/sample-0-0.78ac6a5ce23ac80d72ee.png",
+    "static/media/smartDuck-0.png": "/static/media/smartDuck-0.e20e8b16d849b549e877.png",
+    "static/media/smartDuck-1.png": "/static/media/smartDuck-1.e3b29becf2de3bea81da.png",
+    "static/media/alexandria-1.png": "/static/media/alexandria-1.6cf7d82c0b3bdd82c876.png",
+    "static/media/alexandria-2.png": "/static/media/alexandria-2.c4b6a82b41004f5db984.png",
+    "static/media/mail-icon.png": "/static/media/mail-icon.8d77cf8a5926b08557b7.png",
+    "static/media/smartDuck-2.png": "/static/media/smartDuck-2.93ad503b22d3afe981b5.png",
+    "static/media/ig-icon.png": "/static/media/ig-icon.019d7dfc50d8ee3b5782.png",
+    "static/media/twt-icon.png": "/static/media/twt-icon.c7860e9d43a405037ba4.png",
+    "index.html": "/index.html",
+    "main.a26a8618.css.map": "/static/css/main.a26a8618.css.map",
+    "main.d36f80d8.js.map": "/static/js/main.d36f80d8.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a26a8618.css",
+    "static/js/main.d36f80d8.js"
+  ]
+}
