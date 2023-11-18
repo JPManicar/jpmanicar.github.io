@@ -1,0 +1,150 @@
+*{
+    box-sizing: border-box;
+}
+
+
+/*Projects Section*/
+.projects-section{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+
+    color: white;
+    background-color:#145DA0;
+  
+    width: 100%;
+    height: fit-content;
+  
+    padding-bottom: 4rem;
+      
+   
+  }
+
+.project-container{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    
+    width: 100%;
+    height: fit-content;
+}
+
+
+.project-description{
+    padding: 1rem;
+    animation: fadeIn 1s;
+
+    width: 30%;
+    height: fit-content;
+
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.project-description p{
+    font-size: 16px;
+}
+.project-name{
+    font-size: 32px;
+    font-family: 'Bree Serif', serif;
+}
+
+
+.project{
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+    height: fit-content;
+
+    padding: 1.5rem;
+ 
+}
+
+
+
+.project-2{
+    background-color: #173A59;
+}
+
+
+
+.samples{
+    animation:fadeIn 3s;
+    display: grid;
+    gap: 10px;
+
+    justify-content: center;
+    align-items: center;
+
+    width: 70%;
+    height: fit-content;
+
+    padding: 1rem;
+    margin: 1.5rem;
+
+}
+
+.horizontal{
+    grid-column-start: 2;
+    grid-column-end: 3;
+}
+.vertical{
+    
+    grid-row-start: 1;
+    grid-row-end: 3;
+}
+
+.vertical:hover {
+    transition: transform .5s;
+    transform: scale(1.2); 
+}
+
+.horizontal:hover{
+    transition: transform .5s;
+    transform: scale(1.2); 
+}
+
+.spread{
+    width: 250px;
+}
+/* animations */
+@keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+
+/* mobile view */
+
+@media (max-width: 1135px) {
+  
+    .horizontal{
+        display: none;
+    }
+
+    .vertical{
+        height: fit-content;
+        width: 250px;
+    }
+  }
+
+  
+@media (max-width: 600px) {
+    .project-name {
+        font-size: 21px;
+    }
+    .project-description p{
+        font-size: 12px;
+    }
+    .project-description li {
+        font-size: 10px;
+    }
+  }
