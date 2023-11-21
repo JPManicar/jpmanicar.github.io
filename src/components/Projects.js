@@ -43,9 +43,9 @@ function Projects () {
                 <br/>
                 <ul>Roles:
 
-                <li>UI/UX Design of the website using Figma</li>
-                <li>Implemented the UI Design in the frontend using HTML, CSS, and Bootstrap.</li>
-                <li>Collaborated with a backend developer to implement the use of Flask.</li></ul>
+                <li>Create Mockup UI Design using Figma</li>
+                <li>Implemented the UI Design in the Frontend using Java JFrames</li>
+                <li>Develop basic database management functionalities for the Backend using Java and MySQL</li></ul>
                 </p>
                 <div className="button button-fill fill-left" onClick={() => redirectToExternalLink(project2)}>View on GitHub</div>
             </div>
